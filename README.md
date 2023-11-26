@@ -40,11 +40,11 @@ This R script provides a versatile karyotype plotting function for visualizing c
 3. Run the script to generate karyotype plots.
 
 # Example usage
-ChromosomsNumbers <- c(1:24)
-GenesName <- c("SNORD78", "BET1L", "MIR8078", "KRT18P53")
-FocusBoundry <- c()
-plotDir <- 0
-locationBar <- 0
+ChromosomsNumbers <- c(1:24) <br>
+GenesName <- c("SNORD78", "BET1L", "MIR8078", "KRT18P53") <br>
+FocusBoundry <- c() <br>
+plotDir <- 0 <br>
+locationBar <- 0  <br>
 
 ## Languages Used
 
