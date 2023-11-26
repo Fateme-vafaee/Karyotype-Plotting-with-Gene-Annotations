@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
 
-Given cytoband and GTF annotation les for human, write an R program from scratch to plot the karyotype with possible annotation of an input set of genes.
+This R script provides a versatile karyotype plotting function for visualizing chromosomal structures. The karyotype function allows users to customize the display by specifying chromosome numbers, highlighting specific genes, adjusting plot direction, and more. The script utilizes cytoband information and gene data to create detailed karyotype plots, offering insights into chromosomal features and gene locations. An intuitive and flexible tool for researchers exploring genomic data and conducting cytogenetic analyses..
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Languages Used
