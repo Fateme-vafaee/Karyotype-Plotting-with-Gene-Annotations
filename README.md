@@ -28,6 +28,24 @@
 This R script provides a versatile karyotype plotting function for visualizing chromosomal structures. The karyotype function allows users to customize the display by specifying chromosome numbers, highlighting specific genes, adjusting plot direction, and more. The script utilizes cytoband information and gene data to create detailed karyotype plots, offering insights into chromosomal features and gene locations. An intuitive and flexible tool for researchers exploring genomic data and conducting cytogenetic analyses..
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Features
+- Customizable chromosome selection
+- Gene annotation for insightful visualizations
+- Flexible plot orientation options
+- Utilizes cytoband information for detailed chromosomal representation
+
+## Usage
+1. Clone the repository to your local machine.
+2. Adjust the script parameters in the `karyotype` function to suit your requirements.
+3. Run the script to generate karyotype plots.
+
+# Example usage
+ChromosomsNumbers <- c(1:24)
+GenesName <- c("SNORD78", "BET1L", "MIR8078", "KRT18P53")
+FocusBoundry <- c()
+plotDir <- 0
+locationBar <- 0
+
 ## Languages Used
 
 R Packages 
