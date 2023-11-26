@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">karyotype-plot </h3>
+<h3 align="center">Genome Visualization Tool: Karyotype Plotting with Gene Annotations </h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
